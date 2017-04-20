@@ -1,0 +1,64 @@
+#include <iostream>
+#include <iostream.h>
+abcd
+int main()
+{
+
+ cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+cout << "Wiersz\n";
+  return 0;
+}
